@@ -11,5 +11,5 @@ Enterprise AE at Twilio (Financial Services) — currently on paternity leave, b
 15+ years in enterprise sales. Top-performing AE at Twilio in FinServ New Business. Formally trained Miller Heiman / Korn Ferry. Liquidium Advisor (Bitcoin DeFi, $500M+ cumulative volume). Previously Wells Fargo Private Banking, Bandwidth.
 
 ### Contact
-- [LinkedIn](https://linkedin.com/in/mannyvillegas)
+- [LinkedIn](https://linkedin.com/in/manny-villegas)
 - m4villegas@gmail.com
