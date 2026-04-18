@@ -8,7 +8,7 @@ Enterprise AE at Twilio (Financial Services) — currently on paternity leave, b
 - **Meridian v3** — Territory signal mapper for enterprise AEs in FinServ. Python + Anthropic API, 5-stage decision engine.
 
 ### Background
-15+ years in enterprise sales. #1 AE in Twilio FinServ New Business. Formally trained Miller Heiman / Korn Ferry. Co-founded Liquidium (Bitcoin DeFi, $500M+ cumulative volume). Previously Wells Fargo Private Banking, Bandwidth.
+15+ years in enterprise sales. #1 AE in Twilio FinServ New Business. Formally trained Miller Heiman / Korn Ferry. Liquidium Advisor (Bitcoin DeFi, $500M+ cumulative volume). Previously Wells Fargo Private Banking, Bandwidth.
 
 ### Contact
 - [LinkedIn](https://linkedin.com/in/mannyvillegas)
