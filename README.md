@@ -1,15 +1,19 @@
 # Manny Villegas
 
-Enterprise AE at Twilio (Financial Services) — currently on paternity leave, building.
+Enterprise sales operator building open-source tooling around AI agents, authority, evaluation, and infrastructure economics.
 
-### What I'm working on
-- **Listing Claw** — AI marketing co-pilot for real estate agents. Built on the Anthropic API.
-- **[cca-prep](https://github.com/Droptops/cca-prep)** — Interactive prep course for the Claude Certified Architect exam.
-- **Agentic workflow tooling** — Exploring multi-step agent orchestration patterns for revenue workflows. Python + Anthropic API.
+## Building in public
 
-### Background
-15+ years in enterprise sales. Top-performing AE at Twilio in FinServ New Business. Formally trained Miller Heiman / Korn Ferry. Liquidium Advisor (Bitcoin DeFi, $500M+ cumulative volume). Previously Wells Fargo Private Banking, Bandwidth.
+- **[FAAR Runtime](https://github.com/Droptops/faar-runtime)** — authority and execution controls for tool-using agents, with explicit fail-closed boundaries around high-consequence actions.
+- **[Agent Honesty Harness](https://github.com/Droptops/agent-honesty-harness)** — mechanical evaluation of whether an agent's claims match what its tools actually did.
+- **[Constraint Enumeration Eval](https://github.com/Droptops/constraint-enumeration-eval)** — research and evaluation work on authority routing, work primitives, and agent failure modes.
+- **[Token Yield](https://github.com/Droptops/token-yield)** — analytical model for API-vs-self-hosted inference economics and local AI ownership.
+- **[CCA Prep](https://github.com/Droptops/cca-prep)** — interactive study resource for the Claude Certified Architect Foundations exam.
 
-### Contact
-- [LinkedIn](https://linkedin.com/in/manny-villegas)
-- m4villegas@gmail.com
+## Background
+
+Enterprise sales and financial-services experience spanning communications infrastructure, fintech, private banking, and business development. Interested in the intersection of agent systems, infrastructure economics, and real-world deployment constraints.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/manny-villegas)
